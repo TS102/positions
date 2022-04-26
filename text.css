@@ -1,0 +1,47 @@
+#top{
+    background-color: orange;
+    padding: 10px 5px 10px 5px;
+}
+#top1 {
+    float: right;
+    margin-right: 10px;
+}
+#top2{
+    margin-left: 10px;
+}
+#container1, #container2, #container3, #container4 {
+    border: 1px solid orange;
+    margin: 0 auto 0 auto;
+    position: relative;
+    margin-right: 20px;
+    width: 200px;
+    text-align: center;
+    margin-top: 50px;
+    background-color: white;
+    float: left;
+}
+#info{
+    background-color: orange;
+    text-align: center;
+    margin-left: 20px;
+    padding: 10px;
+    color: white;
+}
+body{
+    background-color: antiquewhite;
+    clear: both;
+    display: inline;
+    font-family: 'Tapestry', cursive;
+}
+.head{
+    text-align: left;
+    padding-left: 10px;
+}
+#paragraphs{
+    width: 1000px;
+    margin: 0 auto;
+    height: 500px;
+}
+.text{
+    padding: 10px;
+}
